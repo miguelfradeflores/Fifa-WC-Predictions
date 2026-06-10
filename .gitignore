@@ -1,3 +1,5 @@
 # Claude Code / Spec Kit — agent config and spec tooling (local only)
 .claude/
+.claude*
 .specify/
+CLAUDE.md
